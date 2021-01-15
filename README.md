@@ -5,6 +5,16 @@
 ### demo-jpa
 Spring Boot + Spring Data Jpa -->Result风格：
 
+```yaml
+#mysql 配置文件
+spring:
+  datasource:
+    username: 
+    password: 
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://ip:port/数据库?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useSSL=false
+```
+
 
 ```yaml
 spring:
