@@ -1,7 +1,7 @@
 # ovolll-demo
 呆萌！
 ### demo01
-一些无聊乱写的内容，没有参考性
+
 ### demo-jpa
 Spring Boot + Spring Data Jpa -->Result风格：
 
